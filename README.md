@@ -50,9 +50,9 @@ Schools and Universities are the foundation of knowledge and an educational body
 
 ### Built With
 
-#### Java
-#### SQL (MySQL)
-#### Apache NetBeans
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)](https://www.java.com/en/)
+[![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=black)](https://www.mysql.com/en/)
+[![Apache NetBeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)](https://netbeans.apache.org/)
 
 
 <!-- GETTING STARTED -->
@@ -63,9 +63,9 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 To make the project run, you will need to download:
-* [Apache NetBeans IDE](https://netbeans.apache.org/)
-* [MysqL Community Server](https://dev.mysql.com/downloads/mysql/)
-* [MySQL Docker image](https://hub.docker.com/_/mysql)
+* [![Apache NetBeans IDE](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)](https://netbeans.apache.org/)
+* [![MysqL Community Server](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/downloads/mysql/)
+* [![MySQL Docker image](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/_/mysql)
 
 
 ### Installation
@@ -79,3 +79,9 @@ git clone https://github.com/rom1trt/student-management-system.git
 4. Connect to the database
 5. Run the MySQL docker image in parallel
 6. Run the `main.java` file in Appache NetBeans
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
